@@ -1,3 +1,7 @@
+I was going to go through the related Coursera course related to this again. It had some Python 2 related issues. After trying to work around these for a while I just tried to upgrade it to Python 3. This wasn't too difficult, mostly adding parens to the prints. It passed the course Validation.py. 
+
+As far as I've gotten. Use if you find useful.
+
 ##QSTK
 QuantSoftware Toolkit [![PyPI version](https://badge.fury.io/py/QSTK.png)](http://badge.fury.io/py/QSTK)
 
